@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1786970096845,"sparkVersion":"4.0.3","uid":"VectorAssembler_6e2855b9f792","paramMap":{"outputCol":"features","inputCols":["Branch_OHE","Customer_type_OHE","Gender_OHE","Product_line_OHE","Unit_price","Quantity"]},"defaultParamMap":{"outputCol":"VectorAssembler_6e2855b9f792__output","handleInvalid":"error"}}
